@@ -1,2 +1,3 @@
-# DL_Project1
-Deep Learning Classification
+# AI_Project1
+
+Data Science[Machine Learning , Deep Learning] projects
